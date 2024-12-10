@@ -13,8 +13,8 @@ import java.util.HashMap;
 import java.util.List;
 
 /**
- * AppWindow class represents the main window of the Paint Collection application.
- * This allows users to add, remove, display, and save paint colors, associated with brands, into an easy-to-read list.
+ * AppWindow class represents the main window of the Paint Collection application
+ * This allows users to add, remove, display, and save paint colors, associated with brands, into an easy-to-read list
  */
 public class AppWindow extends JFrame {
     HashMap<String, List<String>> paintColors;
