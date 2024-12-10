@@ -1,0 +1,4 @@
+Brand: Valejo
+Colors: [Ultramarine Blue]
+Brand: Citadel
+Colors: [Khorne Red, Ushabti Bone]
